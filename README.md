@@ -13,4 +13,4 @@ In addition to our initial cleaning of the data, the 'STATUS' column was removed
 
 ## Summary
 
-The model does not succeed in predicting success correctly above a 75% accuracy rate. Perhaps the large number of variables caused the model difficulty in its task to maximize accuracy.
+The model does not succeed in predicting success correctly above a 75% accuracy rate. Perhaps the large number of categories of organizations caused the model difficulty in its task to maximize accuracy.
